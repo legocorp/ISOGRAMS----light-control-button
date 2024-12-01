@@ -1,1 +1,9 @@
-{'name': 'ISOGRAMS - Light Control Button', 'content_in_root': True, 'render_readme': True, 'domains': ['lovelace'], 'country': ['global'], 'filename': 'light-control-button.js'}
+{
+  "name": "ISOGRAMS Light Control Button",
+  "content_in_root": true,
+  "filename": "light-control-button.js",
+  "domains": ["light"],
+  "iot_class": "cloud_push",
+  "codeowners": ["@legocorp"],
+  "version": "1.0.0"
+}
