@@ -1,10 +1,3 @@
-
-/**
- * @license
- * Home Assistant Community Store
- * @hacs
- */
-
 class LightControlButton extends HTMLElement {
     constructor() {
         super();
