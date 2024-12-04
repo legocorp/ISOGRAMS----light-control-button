@@ -161,5 +161,3 @@ window.customCards.push({
     name: 'ISOGRAMS - Light Control Button',
     description: 'A customizable button card for controlling lights with tap to toggle and hold to open popup.',
 });
-ustomizable button card for controlling lights with tap to toggle and hold to open popup.',
-});
